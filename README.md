@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andrewaltair/andrewaltair/main/assets/andrew-avatar.png" alt="Andrew Altair" width="200" />
-
 # Hi, I'm Andrew Altair 👋
 
 ### AI Innovator & Content Creator · Georgia's AI Expert
